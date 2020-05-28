@@ -4,3 +4,4 @@ Rencana pribadi
 - Belajar laravel
 - belajar javascript
   * react
+  * angularr

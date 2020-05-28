@@ -3,3 +3,5 @@ Rencana pribadi
  * vocabulary
 - Belajar laravel
 - belajar javascript
+ * angular
+ * react

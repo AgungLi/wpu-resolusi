@@ -1,0 +1,4 @@
+Rencana pribadi
+- belajar inggris
+ * vocabulary
+- belajar javascript

@@ -3,5 +3,5 @@ Rencana pribadi
  * vocabulary
 - Belajar laravel
 - belajar javascript
-  * react
-  * angularr
+ * framework js
+- belajar phyton

@@ -4,3 +4,4 @@ Rencana pribadi
 - Belajar laravel
 - belajar javascript
  * framework js
+- belajar phyton

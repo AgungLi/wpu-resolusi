@@ -1,4 +1,5 @@
 Rencana pribadi
 - belajar inggris
  * vocabulary
+- Belajar laravel
 - belajar javascript
